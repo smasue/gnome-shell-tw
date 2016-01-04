@@ -7,7 +7,7 @@ const Clutter = imports.gi.Clutter;
 const PanelMenu = imports.ui.panelMenu;
 
 const TW_URL = 'https://transferwise.com/api/v1/payment/calculate';
-const TW_AUTH_KEY = 'dad99d7d8e52c2c8aaf9fda788d8acdc';
+const TW_AUTH_KEY = 'key to be added';
 
 
 let _httpSession;
