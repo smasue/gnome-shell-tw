@@ -1,0 +1,8 @@
+{
+  "name": "Transfer Wise",
+  "description": "Show transfer wise rating",
+  "shell-version": [
+    "3.16.4"
+  ],
+  "uuid": "Transfer_wise@smasue.github.com"
+}
