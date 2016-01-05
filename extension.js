@@ -7,7 +7,7 @@ const Clutter = imports.gi.Clutter;
 const PanelMenu = imports.ui.panelMenu;
 
 const TW_URL = 'https://transferwise.com/api/v1/payment/calculate';
-const TW_AUTH_KEY = 'key to be added';
+const TW_AUTH_KEY = 'dad99d7d8e52c2c8aaf9fda788d8acdc';
 
 
 let _httpSession;
@@ -82,7 +82,6 @@ const TransferWiseIndicator = new Lang.Class({
 let twMenu;
 
 function init() {
-	//Convenience.initTranslations('gnome-shell-extension-tw-indicator');
 }
 
 function enable() {
