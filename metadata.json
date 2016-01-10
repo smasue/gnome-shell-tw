@@ -1,6 +1,6 @@
 {
-  "name": "Transfer Wise",
-  "description": "Show transfer wise rating",
+  "name": "Transfer Wise Indicator",
+  "description": "Get CHF transfer rate",
   "shell-version": [
     "3.16.4"
   ],
