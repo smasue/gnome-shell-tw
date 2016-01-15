@@ -53,7 +53,7 @@ const TransferWiseIndicator = new Lang.Class({
 
 		_refreshUI: function (data) {
 			let txt = data.transferwisePayOut.toString();
-			txt = txt.substring(0,6) + ' CHF';
+			txt = txt.substring(0,6) + ' €';
 			global.log(txt);
 			this.buttonText.set_text(txt);
 		},
